@@ -1,0 +1,26 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "description": "CLI for defining weather",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "weather"
+  ],
+  "author": "Pavel Lukashou",
+  "license": "ISC",
+  "homepage": "https://test-projects-sandbox.vercel.app/",
+  "repository": {
+    "type": "git",
+    "url": "https://test-projects-sandbox.vercel.app/"
+  },
+  "bugs": {
+    "email": "pashaluckwork@gmail.com",
+    "url": "https://test-projects-sandbox.vercel.app/"
+  }
+}
